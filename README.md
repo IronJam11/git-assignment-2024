@@ -21,3 +21,4 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Kavya Rajput](https://github.com/Kavya-spec-ui)
 - [Smit Bafna](https://github.com/Smitbafna)
 - [Himani Rathore](https://github.com/himani-r5)
+- [Aarchi Kothari](https://github.com/codingcat101)
